@@ -1,0 +1,6 @@
+C:\Users\Arili\source\repos\R6 Tab Botter\R6 Tab Botter\bin\Release\R6 Tab Botter.exe.config
+C:\Users\Arili\source\repos\R6 Tab Botter\R6 Tab Botter\bin\Release\R6 Tab Botter.exe
+C:\Users\Arili\source\repos\R6 Tab Botter\R6 Tab Botter\bin\Release\R6 Tab Botter.pdb
+C:\Users\Arili\source\repos\R6 Tab Botter\R6 Tab Botter\obj\Release\R6 Tab Botter.csproj.CoreCompileInputs.cache
+C:\Users\Arili\source\repos\R6 Tab Botter\R6 Tab Botter\obj\Release\R6 Tab Botter.exe
+C:\Users\Arili\source\repos\R6 Tab Botter\R6 Tab Botter\obj\Release\R6 Tab Botter.pdb

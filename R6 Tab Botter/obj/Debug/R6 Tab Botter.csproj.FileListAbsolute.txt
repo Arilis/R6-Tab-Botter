@@ -1,0 +1,7 @@
+C:\Users\Arili\source\repos\R6 Tab Botter\R6 Tab Botter\bin\Debug\R6 Tab Botter.exe.config
+C:\Users\Arili\source\repos\R6 Tab Botter\R6 Tab Botter\bin\Debug\R6 Tab Botter.exe
+C:\Users\Arili\source\repos\R6 Tab Botter\R6 Tab Botter\bin\Debug\R6 Tab Botter.pdb
+C:\Users\Arili\source\repos\R6 Tab Botter\R6 Tab Botter\obj\Debug\R6 Tab Botter.csprojAssemblyReference.cache
+C:\Users\Arili\source\repos\R6 Tab Botter\R6 Tab Botter\obj\Debug\R6 Tab Botter.csproj.CoreCompileInputs.cache
+C:\Users\Arili\source\repos\R6 Tab Botter\R6 Tab Botter\obj\Debug\R6 Tab Botter.exe
+C:\Users\Arili\source\repos\R6 Tab Botter\R6 Tab Botter\obj\Debug\R6 Tab Botter.pdb
